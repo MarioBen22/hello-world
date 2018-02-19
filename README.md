@@ -1,2 +1,3 @@
 # hello-world
 store ideas, resources, or even share and discuss things with others.
+Im just following the guide.
