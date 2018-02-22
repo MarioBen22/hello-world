@@ -1,3 +1,2 @@
 # hello-world
-store ideas, resources, or even share and discuss things with others.
-Im just following the guide.
+Storing my created Labs as I learn how to code and learn new languages.
